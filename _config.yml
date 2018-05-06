@@ -22,6 +22,7 @@ url: "rileyjensen.me" # the base hostname & protocol for your site, e.g. http://
 #twitter_username: jekyllrb
 #github_username:  jekyll
 google_analytics: UA-116701472-1
+show_excerpts: true
 
 # Build settings
 markdown: kramdown
